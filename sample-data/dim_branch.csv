@@ -1,0 +1,16 @@
+branch_id,branch_name,city,province,transit_number
+BR_TOR_001,MapleBank Toronto Branch,Toronto,ON,93810
+BR_MIS_002,MapleBank Mississauga Branch,Mississauga,ON,24592
+BR_OTT_003,MapleBank Ottawa Branch,Ottawa,ON,13278
+BR_HAM_004,MapleBank Hamilton Branch,Hamilton,ON,46048
+BR_LON_005,MapleBank London Branch,London,ON,42098
+BR_MON_006,MapleBank Montreal Branch,Montreal,QC,39256
+BR_QUE_007,MapleBank Quebec City Branch,Quebec City,QC,28289
+BR_LAV_008,MapleBank Laval Branch,Laval,QC,23434
+BR_VAN_009,MapleBank Vancouver Branch,Vancouver,BC,98696
+BR_VIC_010,MapleBank Victoria Branch,Victoria,BC,81482
+BR_SUR_011,MapleBank Surrey Branch,Surrey,BC,21395
+BR_CAL_012,MapleBank Calgary Branch,Calgary,AB,87397
+BR_EDM_013,MapleBank Edmonton Branch,Edmonton,AB,65302
+BR_WIN_014,MapleBank Winnipeg Branch,Winnipeg,MB,14165
+BR_HAL_015,MapleBank Halifax Branch,Halifax,NS,13905
