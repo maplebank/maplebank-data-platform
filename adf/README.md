@@ -1,0 +1,1 @@
+# ADF pipeline JSON definitions
